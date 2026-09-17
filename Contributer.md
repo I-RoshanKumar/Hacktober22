@@ -29,6 +29,10 @@ GITHUB :  github.com/tomriddle77 <br>
 INSTITUTE/COMPANY : HOGWARTS<br>
 DOMAIN: Data Science <br>
 -----
+NAME :  Pranay Kharabe <br>
+GITHUB :  https://github.com/pranay202 <br>
+INSTITUTE/COMPANY : S B Jain Institute of Technology, Nagpur<br>
+DOMAIN: Java, Javascript, Python <br>
 -----
 
 NAME :  Swoyam Siddharth Nayak<br>
@@ -44,9 +48,9 @@ DOMAIN/LANGUGAE : C++<br>
 
 -----
 
-NAME :  Vidhi Angrish<br>
-GITHUB :  vd152<br>
-INSTITUTE/COMPANY : Maharaja Surajmal Institute of Technology<br>
+NAME :  AMULYA MAURYA<br>
+GITHUB :  amulya77<br>
+INSTITUTE/COMPANY : Chanandigarh University<br>
 DOMAIN/LANGUGAE : C++<br>
 
 -----
@@ -72,11 +76,21 @@ DOMAIN/LANGUGAE : PYTHON<br>
 
 ------
 
+NAME : PRITIKA BHAR <br>
+GITHUB :    https://github.com/pritika163 <br>
+INSTITUTE/COMPANY : ACADEMY OF TECHNOLOGY, ADISAPTAGRAM <br>
+DOMAIN/LANGUGAE : JAVA <br>
+
+ 
+------
+NAME : KRINISH RADADIYA  <br>
+GITHUB :  https://github.com/krinish291<br>
+INSTITUTE/COMPANY : AtliQ Technologies <br>
+DOMAIN/LANGUGAE : React-Native<br>
+
+------
 NAME :  Roshan Kumar<br>
 GITHUB :  https://github.com/coderoshan18093<br>
 INSTITUTE/COMPANY : University of Engineering and Management, Jaipur <br>
 DOMAIN/LANGUGAE : Python <br>
-
-
-------
 
